@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha"
+    
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.1"
+  }
 }

@@ -1,6 +1,5 @@
-var chai = require('chai');
-var expect = chai.expect;
-const calculateNumber = require('./2-calcul_chai');
+import chai from 'chai';
+const { expect } = chai;
 
 describe("Calculate Number", () => {
   describe("Calculate sum of two floats", () => {
